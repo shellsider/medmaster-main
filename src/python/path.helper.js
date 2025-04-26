@@ -1,0 +1,1 @@
+export const pathToPyhton = 'E:/3) My Projects/Hackathon/1_Health_care/main-health-care-1.0/src/python'
